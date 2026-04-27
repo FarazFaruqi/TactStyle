@@ -10,7 +10,9 @@ Faraz Faruqi, Maxine Perroni-Scharf, Jaskaran Singh Walia, Yunyi Zhu, Shuyue Fen
   <a href="https://groups.csail.mit.edu/hcie/files/research-projects/tactstyle/slides/chi-2025-tactstyle-presentation.pdf"><img alt="Slides" src="https://img.shields.io/badge/Slides-PDF-orange?style=for-the-badge&logo=googleslides&logoColor=white"></a>
 </p>
 
-![TactStyle teaser: an AirPods cover stylized with four different tactile textures — round stone roof, layered brown rock, herringbone wood, and colorful hexagonal tiles.](figures/teaser_figure.png)
+<p align="center">
+  <img src="figures/teaser_figure.png" alt="TactStyle teaser: an AirPods cover stylized with four different tactile textures — round stone roof, layered brown rock, herringbone wood, and colorful hexagonal tiles." width="100%">
+</p>
 
 TactStyle stylizes 3D models with image inputs while incorporating the
 *tactile* properties of the texture in addition to its color. We accomplish
