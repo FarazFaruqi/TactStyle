@@ -2,7 +2,15 @@
 
 **TactStyle: Generating Tactile Textures with Generative AI for Digital Fabrication**
 Faraz Faruqi, Maxine Perroni-Scharf, Jaskaran Singh Walia, Yunyi Zhu, Shuyue Feng, Donald Degraen, Stefanie Mueller. *CHI '25.*
-[Paper](https://doi.org/10.1145/3706598.3713740)
+
+<p align="center">
+  <a href="https://dl.acm.org/doi/10.1145/3706598.3713740"><img alt="DOI"    src="https://img.shields.io/badge/DOI-10.1145%2F3706598.3713740-blue?style=for-the-badge"></a>
+  <a href="https://groups.csail.mit.edu/hcie/files/research-projects/tactstyle/tactstyle.pdf"><img alt="PDF"    src="https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://www.youtube.com/watch?v=vIMCwYZR7wY&ab_channel=MITCSAIL"><img alt="Video" src="https://img.shields.io/badge/Video-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://groups.csail.mit.edu/hcie/files/research-projects/tactstyle/slides/chi-2025-tactstyle-presentation.pdf"><img alt="Slides" src="https://img.shields.io/badge/Slides-PDF-orange?style=for-the-badge&logo=googleslides&logoColor=white"></a>
+</p>
+
+![TactStyle teaser: an AirPods cover stylized with four different tactile textures — round stone roof, layered brown rock, herringbone wood, and colorful hexagonal tiles.](figures/teaser_figure.png)
 
 TactStyle stylizes 3D models with image inputs while incorporating the
 *tactile* properties of the texture in addition to its color. We accomplish
@@ -28,6 +36,7 @@ tactstyle/
 │   └── apply_texture.py   Displace a mesh along its normals using a heightfield
 ├── examples/
 │   └── airpods/           §10.2 + Fig. 1 — AirPods case (stone-roof / rock variants)
+├── figures/               Teaser figure used in the README
 ├── environment.yml        Conda environment (recommended)
 ├── requirements.txt       pip alternative
 └── LICENSE                MIT
