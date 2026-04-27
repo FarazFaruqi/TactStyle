@@ -4,11 +4,12 @@
 Faraz Faruqi, Maxine Perroni-Scharf, Jaskaran Singh Walia, Yunyi Zhu, Shuyue Feng, Donald Degraen, Stefanie Mueller. *CHI '25.*
 
 <p align="center">
-  <a href="https://dl.acm.org/doi/10.1145/3706598.3713740"><img alt="DOI"    src="https://img.shields.io/badge/DOI-10.1145%2F3706598.3713740-1f2937?style=flat-square&labelColor=111827"></a>
-  <a href="https://groups.csail.mit.edu/hcie/files/research-projects/tactstyle/tactstyle.pdf"><img alt="Paper"  src="https://img.shields.io/badge/Paper-PDF-1f2937?style=flat-square&labelColor=111827&logo=adobeacrobatreader&logoColor=white"></a>
-  <a href="https://www.youtube.com/watch?v=vIMCwYZR7wY&ab_channel=MITCSAIL"><img alt="Video" src="https://img.shields.io/badge/Video-YouTube-1f2937?style=flat-square&labelColor=111827&logo=youtube&logoColor=white"></a>
-  <a href="https://groups.csail.mit.edu/hcie/files/research-projects/tactstyle/slides/chi-2025-tactstyle-presentation.pdf"><img alt="Slides" src="https://img.shields.io/badge/Slides-PDF-1f2937?style=flat-square&labelColor=111827&logo=googleslides&logoColor=white"></a>
-  <a href="https://github.com/farazfaruqi/tactstyle/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-1f2937?style=flat-square&labelColor=111827"></a>
+  <a href="https://hcie.csail.mit.edu/research/tactstyle/tactstyle.html"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-8A1A1A?style=flat-square&logo=githubpages&logoColor=white"></a>
+  <a href="https://dl.acm.org/doi/10.1145/3706598.3713740"><img alt="DOI" src="https://img.shields.io/badge/ACM-DOI-1F6FEB?style=flat-square&logo=acm&logoColor=white"></a>
+  <a href="https://groups.csail.mit.edu/hcie/files/research-projects/tactstyle/tactstyle.pdf"><img alt="Paper" src="https://img.shields.io/badge/Paper-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://www.youtube.com/watch?v=vIMCwYZR7wY&ab_channel=MITCSAIL"><img alt="Video" src="https://img.shields.io/badge/Video-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+  <a href="https://groups.csail.mit.edu/hcie/files/research-projects/tactstyle/slides/chi-2025-tactstyle-presentation.pdf"><img alt="Slides" src="https://img.shields.io/badge/Slides-PDF-F4B400?style=flat-square&logo=googleslides&logoColor=white"></a>
+  <a href="https://github.com/farazfaruqi/tactstyle/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-1ABC9C?style=flat-square"></a>
 </p>
 
 <p align="center">
