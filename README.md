@@ -39,18 +39,15 @@ tactstyle/
 git clone https://github.com/FarazFaruqi/TactStyle.git tactstyle
 cd tactstyle
 
-# Create the conda environment (Python 3.10, PyTorch + CUDA 11.8)
+# Create the conda environment (Python 3.10 + PyTorch)
 conda env create -f environment.yml
 conda activate tactstyle
 ```
 
-If you only have a CPU machine, edit `environment.yml` and remove the
-`pytorch-cuda=11.8` line before creating the environment. To use a different
-CUDA version, replace `11.8` with the version matching your driver
-(e.g. `12.1`).
-
-A CUDA-capable GPU is recommended (the SD v1.4 VAE will be downloaded by
-`diffusers` on first run, ~330 MB).
+A CUDA-capable GPU is recommended. The conda environment installs PyTorch
+from the official `pytorch` channel; the GPU build it ships with is
+forward-compatible with most modern NVIDIA drivers (CUDA 11.8 — 12.x).
+The SD v1.4 VAE is downloaded on first run by `diffusers` (~330 MB).
 
 > Prefer plain pip? A `requirements.txt` is also provided for the same
 > dependency set:
