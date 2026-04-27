@@ -49,7 +49,7 @@ from the official `pytorch` channel; the GPU build it ships with is
 forward-compatible with most modern NVIDIA drivers (CUDA 11.8 — 12.x).
 The SD v1.4 VAE is downloaded on first run by `diffusers` (~330 MB).
 
-> Prefer plain pip? A `requirements.txt` is also provided for the same
+> A `requirements.txt` is also provided for the same
 > dependency set:
 >
 > ```bash
