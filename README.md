@@ -4,10 +4,11 @@
 Faraz Faruqi, Maxine Perroni-Scharf, Jaskaran Singh Walia, Yunyi Zhu, Shuyue Feng, Donald Degraen, Stefanie Mueller. *CHI '25.*
 
 <p align="center">
-  <a href="https://dl.acm.org/doi/10.1145/3706598.3713740"><img alt="DOI"    src="https://img.shields.io/badge/DOI-10.1145%2F3706598.3713740-blue?style=for-the-badge"></a>
-  <a href="https://groups.csail.mit.edu/hcie/files/research-projects/tactstyle/tactstyle.pdf"><img alt="PDF"    src="https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
-  <a href="https://www.youtube.com/watch?v=vIMCwYZR7wY&ab_channel=MITCSAIL"><img alt="Video" src="https://img.shields.io/badge/Video-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://groups.csail.mit.edu/hcie/files/research-projects/tactstyle/slides/chi-2025-tactstyle-presentation.pdf"><img alt="Slides" src="https://img.shields.io/badge/Slides-PDF-orange?style=for-the-badge&logo=googleslides&logoColor=white"></a>
+  <a href="https://dl.acm.org/doi/10.1145/3706598.3713740"><img alt="DOI"    src="https://img.shields.io/badge/DOI-10.1145%2F3706598.3713740-1f2937?style=flat-square&labelColor=111827"></a>
+  <a href="https://groups.csail.mit.edu/hcie/files/research-projects/tactstyle/tactstyle.pdf"><img alt="Paper"  src="https://img.shields.io/badge/Paper-PDF-1f2937?style=flat-square&labelColor=111827&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://www.youtube.com/watch?v=vIMCwYZR7wY&ab_channel=MITCSAIL"><img alt="Video" src="https://img.shields.io/badge/Video-YouTube-1f2937?style=flat-square&labelColor=111827&logo=youtube&logoColor=white"></a>
+  <a href="https://groups.csail.mit.edu/hcie/files/research-projects/tactstyle/slides/chi-2025-tactstyle-presentation.pdf"><img alt="Slides" src="https://img.shields.io/badge/Slides-PDF-1f2937?style=flat-square&labelColor=111827&logo=googleslides&logoColor=white"></a>
+  <a href="https://github.com/farazfaruqi/tactstyle/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-1f2937?style=flat-square&labelColor=111827"></a>
 </p>
 
 <p align="center">
