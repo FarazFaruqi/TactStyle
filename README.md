@@ -28,21 +28,37 @@ tactstyle/
 │   └── apply_texture.py   Displace a mesh along its normals using a heightfield
 ├── examples/
 │   └── airpods/           §10.2 + Fig. 1 — AirPods case (stone-roof / rock variants)
-├── requirements.txt
+├── environment.yml        Conda environment (recommended)
+├── requirements.txt       pip alternative
 └── LICENSE                MIT
 ```
 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-user>/tactstyle.git
+git clone https://github.com/FarazFaruqi/TactStyle.git tactstyle
 cd tactstyle
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
+
+# Create the conda environment (Python 3.10, PyTorch + CUDA 11.8)
+conda env create -f environment.yml
+conda activate tactstyle
 ```
+
+If you only have a CPU machine, edit `environment.yml` and remove the
+`pytorch-cuda=11.8` line before creating the environment. To use a different
+CUDA version, replace `11.8` with the version matching your driver
+(e.g. `12.1`).
 
 A CUDA-capable GPU is recommended (the SD v1.4 VAE will be downloaded by
 `diffusers` on first run, ~330 MB).
+
+> Prefer plain pip? A `requirements.txt` is also provided for the same
+> dependency set:
+>
+> ```bash
+> python -m venv .venv && source .venv/bin/activate
+> pip install -r requirements.txt
+> ```
 
 ## Dataset
 
